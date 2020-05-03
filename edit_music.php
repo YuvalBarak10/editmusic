@@ -2,7 +2,7 @@
 //neveshteh shode tvasatoe #elyas #galikeshi @sudo_avenger
 ob_start();
 //token ro inja vared konid
-define('API_KEY','[TOKEN]');
+define('API_KEY','[854466744:AAEzwrtA5D9DMXObuNg5e-W_6nVxaB266C0]');
 $admin = "125858918";
 $admin2 = "93161337";
 function bot($method,$datas=[]){
